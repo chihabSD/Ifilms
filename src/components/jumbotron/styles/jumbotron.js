@@ -3,6 +3,7 @@ import styled from "styled-components/macro";
 export const Inner = styled.div`
   display: flex;
   align-items: center;
+  /* background-color: white; */
   justify-content: space-between;
   flex-direction: ${({ direction }) => direction};
   max-width: 1100px;
