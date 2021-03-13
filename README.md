@@ -9,4 +9,4 @@ git clone https://github.com/chihabSD/Ifilms.git
 
 npm install
 
-[see it live @](https://silly-hodgkin-e118cf.netlify.app/)
+[see it live ](https://silly-hodgkin-e118cf.netlify.app/)
