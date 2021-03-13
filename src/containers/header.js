@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../components/header";
 import * as ROUTES from "../constants/routes";
-import logo from "../logo.svg";
+import logo from "../movie.png";
 
 export function HeaderContainer({ children }) {
   return (

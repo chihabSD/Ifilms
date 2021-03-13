@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <>
       <HeaderContainer>
+        <div style={{ marginTop: "10%" }} />
         <OptForm>
           <OptForm.Input placeholder="Email address" />
           <OptForm.Button>Try it now</OptForm.Button>
